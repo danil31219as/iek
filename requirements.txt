@@ -9,7 +9,7 @@ greenlet==0.4.16
 html5lib==1.1
 idna==2.10
 lxml==4.5.1
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 pycparser==2.20
 PyMySQL==0.9.3
