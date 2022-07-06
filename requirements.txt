@@ -8,7 +8,7 @@ gevent==20.6.2
 greenlet==0.4.16
 html5lib==1.1
 idna==2.10
-lxml==4.5.1
+lxml==4.9.1
 numpy==1.19.0
 pandas==1.0.5
 pycparser==2.20
